@@ -4,7 +4,7 @@ End-to-end, hands-on implementation of the data warehousing lifecycle - from raw
 
 ## The story
 
-My hands-on work here covers the end-to-end data lifecycle — from extracting data from files and APIs, transforming and loading data into relational databases, designing dimensional models, managing historical changes with SCD strategies, building star schemas, validating data, and using AI-assisted interfaces to query data warehouses for business insights.
+My hands-on work here covers the end-to-end data lifecycle - from extracting data from files and APIs, transforming and loading data into relational databases, designing dimensional models, managing historical changes with SCD strategies, building star schemas, validating data, and using AI-assisted interfaces to query data warehouses for business insights.
 
 ## Lifecycle overview
 
@@ -21,9 +21,9 @@ My hands-on work here covers the end-to-end data lifecycle — from extracting d
 ## Why these fit together
 
 - **Modules 1–3** cover the fundamentals: getting data in, modeling it properly, and validating it.
-- **Modules 4–5** move into real data warehousing concepts — historical tracking and dimensional modeling — the parts of the lifecycle that separate basic ETL from data warehouse engineering.
+- **Modules 4–5** move into real data warehousing concepts — historical tracking and dimensional modeling - the parts of the lifecycle that separate basic ETL from data warehouse engineering.
 - **Module 6** shows the same ETL discipline applied to a different source type (API/JSON vs. file).
-- **Module 7** bridges data engineering into business analysis, using an AI assistant connected to the warehouse via MCP to answer natural-language questions — validated against direct SQL.
+- **Module 7** bridges data engineering into business analysis, using an AI assistant connected to the warehouse via MCP to answer natural-language questions - validated against direct SQL.
 
 ## Tech stack
 
