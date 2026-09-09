@@ -1,6 +1,6 @@
-# Data Warehouse & ETL Lifecycle Project
+# Data Warehouse & ETL Lifecycle 
 
-End-to-end, hands-on implementation of the data warehousing lifecycle — from raw source extraction to AI-assisted business analytics — built using **Pentaho Data Integration**, **MySQL**, and **MySQL Workbench / SQLyog**.
+End-to-end, hands-on implementation of the data warehousing lifecycle - from raw source extraction to AI-assisted business analytics - built using **Pentaho Data Integration**, **MySQL**, and **MySQL Workbench / SQLyog**.
 
 ## The story
 
