@@ -14,7 +14,7 @@ I created separate transformations for employee/project data and used steps such
 
 I also created a main job to coordinate the individual extraction workflows and verified the execution through Pentaho's logging and transformation results.
 
-The recording shows the transformation processing 6 employee/project records and successfully writing them to the database.
+The recording shows the transformation processing employee/project records and successfully writing them to the database.
 
 ## Concepts demonstrated
 
