@@ -21,7 +21,7 @@ My hands-on work here covers the end-to-end data lifecycle - from extracting dat
 ## Why these fit together
 
 - **Modules 1–3** cover the fundamentals: getting data in, modeling it properly, and validating it.
-- **Modules 4–5** move into real data warehousing concepts — historical tracking and dimensional modeling - the parts of the lifecycle that separate basic ETL from data warehouse engineering.
+- **Modules 4–5** move into real data warehousing concepts - historical tracking and dimensional modeling - the parts of the lifecycle that separate basic ETL from data warehouse engineering.
 - **Module 6** shows the same ETL discipline applied to a different source type (API/JSON vs. file).
 - **Module 7** bridges data engineering into business analysis, using an AI assistant connected to the warehouse via MCP to answer natural-language questions - validated against direct SQL.
 
